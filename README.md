@@ -14,7 +14,7 @@ Some of the features that TaskTrac has are:-
 - Project Management
 - Profile Management
 
-The app is completetely built using asp.net mvc and the twitter bootstrap framework.
+The app is completely built using asp.net mvc and the twitter bootstrap framework.
 
 Currently I have only posted the twitter bootstrap based front-end slices of the app as the asp.net back-end is 
 under production.
