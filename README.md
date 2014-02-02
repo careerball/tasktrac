@@ -4,7 +4,7 @@ tasktrac
 TaskTrac is an asp.net and twitter-bootstrap based task management tool.
 The tool is astonishingly easy to use and set up and is fully responsive.
 
-Some of the features that I am buildig in TaskTrac are:-
+Some of the features that TaskTrac has are:-
 - Task Management
 - Team Management
 - Task sharing and assignment
